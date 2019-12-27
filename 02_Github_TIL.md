@@ -58,8 +58,11 @@ $ git remote add origin [github 원격 저장소 주소]
 ```shell
 $ git push origin master
 ```
+### (5-1) 업데이트 되거나 Github에서 commit했을 때 사용 `git pull`
 
-
+```shell
+$ git pull origin master
+```
 
 ### (6) 그 외 명령어
 
