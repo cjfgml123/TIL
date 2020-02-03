@@ -20,7 +20,7 @@
 
 **훈련 반복**(training loop)을 통해 충분한 횟수만큼 반복하면 **손실** **함수를 최소화하는 가중치 값을** **산출**
 
-![](C:\Users\student\Desktop\철희\TIL\picture\keras_1\keras_1.1.JPG)
+![keras_1 1](https://user-images.githubusercontent.com/46438257/73651305-827eb680-46c7-11ea-9bd9-312b779769a4.JPG)
 
 
 
