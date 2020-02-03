@@ -20,9 +20,9 @@
 
 **훈련 반복**(training loop)을 통해 충분한 횟수만큼 반복하면 **손실** **함수를 최소화하는 가중치 값을** **산출**
 
+![](C:\Users\student\Desktop\철희\TIL\picture\keras_1\keras_1.1.JPG)
 
 
-![image-20200203170117294](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203170117294.png)
 
 
 
@@ -44,7 +44,9 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 1-2. 옵티마이저 - 오차의 최저점을 찾아주는 것
 
-![image-20200203170147020](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203170147020.png)
+![image-20200203170147020](C:\Users\student\Desktop\철희\TIL\picture\keras_1\keras_1.2.JPG)
+
+
 
 
 
@@ -62,7 +64,9 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 
 
-![image-20200203170203113](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203170203113.png)
+![image-20200203170203113](C:\Users\student\Desktop\철희\TIL\picture\keras_1\keras_1.3.JPG)
+
+
 
 
 
@@ -75,7 +79,9 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 
 
-![image-20200203170215430](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203170215430.png)
+![image-20200203170215430](C:\Users\student\Desktop\철희\TIL\picture\keras_1\keras_1.4.JPG)
+
+
 
 
 
@@ -85,7 +91,9 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 
 
-![image-20200203170223738](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203170223738.png)
+![image-20200203170223738](C:\Users\student\Desktop\철희\TIL\picture\keras_1\keras_1.5.JPG)
+
+
 
 
 
