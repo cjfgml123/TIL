@@ -22,7 +22,9 @@
 
 
 
-![image-20200203163923338](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203163923338.png)
+![image-20200203170117294](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203170117294.png)
+
+
 
  그림 1-9 손실 점수를 피드백 신호로 사용하여 가중치 조정
 
@@ -42,7 +44,9 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 1-2. 옵티마이저 - 오차의 최저점을 찾아주는 것
 
-![image-20200203164327200](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203164327200.png)
+![image-20200203170147020](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203170147020.png)
+
+
 
 
 
@@ -58,7 +62,9 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 
 
-![image-20200203164502668](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203164502668.png)
+![image-20200203170203113](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203170203113.png)
+
+
 
 
 
@@ -69,7 +75,9 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 
 
-![image-20200203164621745](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203164621745.png)
+![image-20200203170215430](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203170215430.png)
+
+
 
 ##### 2-2) 과대적합 
 
@@ -77,7 +85,11 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 
 
-![image-20200203164701006](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203164701006.png)
+![image-20200203170223738](C:\Users\student\AppData\Roaming\Typora\typora-user-images\image-20200203170223738.png)
+
+
+
+
 
 
 
