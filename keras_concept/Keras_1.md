@@ -1,4 +1,4 @@
-## Keras_1
+## keras_concept/picture/keras_1/keras_1.2.JPGKeras_1
 
 ###  목차
 
@@ -20,7 +20,11 @@
 
 **훈련 반복**(training loop)을 통해 충분한 횟수만큼 반복하면 **손실** **함수를 최소화하는 가중치 값을** **산출**
 
-![keras_1 1](https://user-images.githubusercontent.com/46438257/73651305-827eb680-46c7-11ea-9bd9-312b779769a4.JPG)
+<img src="/picture/keras_1/keras_1_1.JPG" style="zoom:60%;" />
+
+
+
+
 
 
 
@@ -44,7 +48,9 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 1-2. 옵티마이저 - 오차의 최저점을 찾아주는 것
 
-![image-20200203170147020](C:\Users\student\Desktop\철희\TIL\picture\keras_1\keras_1.2.JPG)
+![image-20200203170147020](keras_concept/picture/keras_1/keras_1.2.JPG)
+
+
 
 
 
@@ -79,7 +85,11 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 
 
-![image-20200203170215430](C:\Users\student\Desktop\철희\TIL\picture\keras_1\keras_1.4.JPG)
+![image-20200203170215430](keras_concept/picture/keras_1/keras_1.3.JPG)
+
+
+
+
 
 
 
@@ -91,7 +101,9 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 
 
-![image-20200203170223738](C:\Users\student\Desktop\철희\TIL\picture\keras_1\keras_1.5.JPG)
+![image-20200203170223738](keras_concept/picture/keras_1/keras_1.5.JPG)
+
+
 
 
 
