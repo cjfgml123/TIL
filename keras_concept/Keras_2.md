@@ -51,7 +51,11 @@
 
   주의 - 흑백이미지는 하나의 컬러 채널만을 가지고 있어 2D 텐서로 저장될 수 있지만 관례상 이미지 텐서는 항상 3D로 저장 
 
-![keras2](.\picture\keras_2\keras_2.2.JPG)
+<img src=".\picture\keras_2\keras_2.2.JPG" alt="keras2" style="zoom:67%;" />
+
+
+
+
 
 - 동영상 : (samples,frames, height, width, channels) or (samples,frames, channels, height, width) 5D 텐서
 
