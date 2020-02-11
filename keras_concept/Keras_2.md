@@ -41,7 +41,9 @@
 
 - 시계열 데이터(시퀀스) : (samples ,timesteps ,features) 3D 텐서
 
-![3D 시계열 데이터 텐서](C:\Users\student\Desktop\철희\TIL\picture\keras_2\keras_2.1.JPG)
+![](.\keras_concept\picture\keras_2\keras_2.1.JPG)
+
+
 
 - 이미지 : 채널마지막방식(samples, height, width, channels) or 채널우선방식(samples, channels, height, width) 4D 텐서
 
