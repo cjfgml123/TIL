@@ -80,21 +80,31 @@ model.compile(optimizer = RMSprop, loss = 'mse', metrics= ['accuracy'])
 
 * 분류 (0/1) : 시그모이드 함수 sigmoid function  
 
-​    ![keras3_sigm](C:\Users\student\Desktop\철희\TIL\keras_concept\picture\keras_3\keras3_sigm.JPG)
+<img src=".\picture\keras_3\sig.JPG" alt="sig" style="zoom:67%;" />
+
+
 
 * tanh Function : sigmoid fuction을 보완하고자 나온 함수이다. 입력신호를 (−1,1−1,1) 사이의 값으로 normalization 해준다. 거의 모든 방면에서 sigmoid보다 성능이 좋다.
 
-   ![keras_5tanh](C:\Users\student\Desktop\철희\TIL\keras_concept\picture\keras_3\keras_5tanh.JPG)
+   <img src=".\picture\keras_3\tan.JPG" alt="tan" style="zoom:67%;" />
+
+   
+
+   
 
 * 다중 분류 : 소프트맥스 함수 softmax function
 
 * ReLU 함수 : 입력값이 0이상이면 입력 값을 그대로 출력하는 함수 , 회귀문제에 주로 사용 , relu 사진 삽입
 
-  ![keras3_relu](C:\Users\student\Desktop\철희\TIL\keras_concept\picture\keras_3\keras3_relu.JPG)
+  <img src=".\picture\keras_3\relu.JPG" alt="relu" style="zoom:67%;" />
+  
+  
 
 ##### 3). 옵티마이저 
 
-![keras3_optim](C:\Users\student\Desktop\철희\TIL\keras_concept\picture\keras_3\keras3_optim.JPG)
+<img src=".\picture\keras_3\opm.JPG" alt="opm" style="zoom:67%;" />
+
+
 
 ##### 4). 지표
 
@@ -104,7 +114,9 @@ model.compile(optimizer = RMSprop, loss = 'mse', metrics= ['accuracy'])
 
 #### 4. 에포크와 배치 크기 이터레이션
 
-![keras3_epoch](C:\Users\student\Desktop\철희\TIL\keras_concept\picture\keras_3\keras3_epoch.JPG)
+<img src=".\picture\keras_3\epoch.JPG" alt="epoch" style="zoom:67%;" />
+
+
 
 Iteration = batch 수     주의 * : 배치사이즈와 배치 수 헷갈 x
 
