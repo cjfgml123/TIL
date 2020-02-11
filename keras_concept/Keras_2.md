@@ -41,7 +41,7 @@
 
 - 시계열 데이터(시퀀스) : (samples ,timesteps ,features) 3D 텐서
 
-![](.\keras_concept\picture\keras_2\keras_2.1.JPG)
+![](.\picture\keras_2\keras_2.1.JPG)
 
 
 
@@ -51,7 +51,7 @@
 
   주의 - 흑백이미지는 하나의 컬러 채널만을 가지고 있어 2D 텐서로 저장될 수 있지만 관례상 이미지 텐서는 항상 3D로 저장 
 
-![image-20200203174129217](C:\Users\student\Desktop\철희\TIL\picture\keras_2\keras_2.2.JPG)
+![image-20200203174129217](.\picture\keras_2\keras_2.2.JPG)
 
 - 동영상 : (samples,frames, height, width, channels) or (samples,frames, channels, height, width) 5D 텐서
 
@@ -100,7 +100,7 @@ print(x) # (20,300)
 
 
 
-![](C:\Users\student\Desktop\철희\TIL\picture\keras_2\keras_2.3.JPG)
+![](.\picture\keras_2\keras_2.3.JPG)
 
 4-1) 확률적 경사하강법 - SGD(Stochastic Gradient Descent)- 배치크기가 1인 경사하강법 알고리즘
 
@@ -116,7 +116,7 @@ ex) 확률적 경사 하강법(Stochastic GD, SGD)은 한 번에 전체 데이�
 
 - 관성이란, 변수가 가던 방향으로 계속 가도록 하는 속도(velocity) 항을 추가하는 것으로 바른 방향으로 가고 있다면 점점 더 속도가 빨라지게 되어 더 빨리 훈련이 될 수도 있고 지역해에 빠져도 계속 빠르게 이동해 탈출 할 수 있다.
 
-![](C:\Users\student\Desktop\철희\TIL\picture\keras_2\keras_2.5.JPG)
+![](.\picture\keras_2\keras_2.5.JPG)
 
 - 모멘텀을 사용한 옵티마이저 - 모멘텀을 사용한 SGD, Adagrad, RMSProp
 
