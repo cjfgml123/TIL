@@ -48,7 +48,7 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 1-2. 옵티마이저 - 오차의 최저점을 찾아주는 것
 
-![image-20200203170147020](keras_concept/picture/keras_1/keras_1.2.JPG)
+![image-20200203170147020](./picture/keras_1/keras_1.2.JPG)
 
 
 
