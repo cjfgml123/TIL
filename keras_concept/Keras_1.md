@@ -70,7 +70,7 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 
 
-![image-20200203170203113](C:\Users\student\Desktop\철희\TIL\picture\keras_1\keras_1.3.JPG)
+![image-20200203170203113](./picture/keras_1/keras_1.3.JPG)
 
 
 
@@ -85,7 +85,7 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 
 
-![image-20200203170215430](keras_concept/picture/keras_1/keras_1.3.JPG)
+![image-20200203170215430](./picture/keras_1/keras_1.3.JPG)
 
 
 
@@ -101,7 +101,7 @@ model.compile(loss = 'mse',optimizer='adam', metrics=['mse'])
 
 
 
-![image-20200203170223738](keras_concept/picture/keras_1/keras_1.5.JPG)
+![image-20200203170223738](./picture/keras_1/keras_1.5.JPG)
 
 
 
